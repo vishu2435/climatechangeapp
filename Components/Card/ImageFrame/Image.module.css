@@ -1,5 +1,5 @@
 .image{
-    /* max-height: 200px; */
+    max-height: 400px;
     width: 100%;
     display: flex;
     transition:"transform 2s ease-in-out";
@@ -8,4 +8,9 @@
     position: absolute;
     top:40%;
     z-index:1000;
+}
+@media(max-width:400px){
+    .image{
+        max-height: 200px;
+    }
 }
