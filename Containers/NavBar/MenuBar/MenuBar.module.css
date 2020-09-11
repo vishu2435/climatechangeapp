@@ -1,0 +1,9 @@
+.menuBar{
+    width: 250px;
+}
+.drawerHeader{
+    display: flex;
+    align-items: center;
+    padding: 0 8px;
+    justify-content: flex-end;
+}

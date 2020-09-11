@@ -1,0 +1,11 @@
+.image{
+    /* max-height: 200px; */
+    width: 100%;
+    display: flex;
+    transition:"transform 2s ease-in-out";
+}
+.arrow{
+    position: absolute;
+    top:40%;
+    z-index:1000;
+}

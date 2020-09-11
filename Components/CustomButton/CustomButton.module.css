@@ -1,0 +1,15 @@
+.customButton{
+    border:none;
+    padding: 5px;
+    min-width: fit-content;
+    width: 100px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #001935;
+    color: #ffffff;
+    font-weight: 600;
+}
+.customButton:disabled{
+    opacity: 0.5;
+    cursor: not-allowed;
+}

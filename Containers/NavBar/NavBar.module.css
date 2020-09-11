@@ -1,0 +1,13 @@
+.root{
+    /* flex-grow: 1; */
+    background-color: #001935;
+}
+.menuButton{
+    margin-right: 8px;
+}
+.title{
+    flex-grow: 1;
+}
+.appbar{
+    background-color: #001935 !important;
+}
